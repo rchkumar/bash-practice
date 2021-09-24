@@ -1,5 +1,6 @@
 #!/bin/bash
 while true
 do
-   echo "Ram Sindhu THoshita Deeptesh"
+   echo "Ram Sindhu Thoshita Deeptesh"
+   echo "Family Name is - Cheekoti "
 done
