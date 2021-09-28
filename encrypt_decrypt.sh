@@ -6,7 +6,7 @@ if [ -f $filename ]
 then
   echo "The file is present and The file you entered is $filename"
   gpg -c $filename
-  echo "Your encryption file is "
+  echo "Your encryption file/s is/are "
   find *.gpg
 
 else

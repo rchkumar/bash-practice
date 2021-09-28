@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ansible-practice/.idea/ansible-practice.iml" filepath="$PROJECT_DIR$/../ansible-practice/.idea/ansible-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/bash-practice.iml" filepath="$PROJECT_DIR$/.idea/bash-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../k8s-practice/.idea/k8s-practice.iml" filepath="$PROJECT_DIR$/../k8s-practice/.idea/k8s-practice.iml" />
     </modules>
   </component>
 </project>
